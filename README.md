@@ -1,7 +1,7 @@
 
 ### Hi there 👋, Nice to see you.
 #### Welcome to my page! I'm Amandeep Singh, a android developer, web developer, coder from Jammu, Jammu and kashmir, India.
-![Welcome to my page! I'm Amandeep Singh, a android developer, web developer, coder from Jammu, Jammu and kashmir, India.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Welcome to my page! I'm Amandeep Singh, a android developer, web developer, coder from Jammu, Jammu and kashmir, India.]
 
 **languages and tools:**  
 
